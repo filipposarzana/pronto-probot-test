@@ -3,3 +3,5 @@ labels:
     - "invalid"
   requirements:
     - "bug"
+skip:
+  - 'paolo'
